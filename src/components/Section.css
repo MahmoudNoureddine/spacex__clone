@@ -1,0 +1,39 @@
+/* .section {
+  width: 100%;
+  height: 100vh;
+
+  color: #fff;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+}
+
+.section-content {
+  margin-left: 50px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+
+.section-content p {
+  margin-bottom: 5px;
+}
+
+.section-content h1 {
+  margin-bottom: 25px;
+  font-size: 2.5rem;
+}
+
+.section-content button {
+  height: 50px;
+  padding: 0 50px;
+  background: none;
+  color: #fff;
+  font-size: 1.2rem;
+  border: 2px solid #fff;
+  transition: all 350ms;
+}
+
+.section-content button:hover {
+  box-shadow: inset 0 -3.25em 0 0 #fff;
+  color: #000;
+} */
